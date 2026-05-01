@@ -3,6 +3,23 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Meshtastic is an open-source, off-grid communication system that uses low-power LoRa radios to form a self-healing mesh network. Small battery-powered nodes relay text messages, GPS positions, and sensor data from device to device without requiring cellular service, internet, or infrastructure. Messages automatically hop across multiple nodes, extending range far beyond a single radio link.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## How this helps the Temagami community:
+
+On a lake area with poor or no cell coverage, Meshtastic nodes placed in homes, cabins, boats, and high points (trees, masts, hills) create a shared community network:
+
+- Reliable text messaging between residents, even dozens of kilometers apart
+- Emergency coordination during storms, fires, medical events, or power outages
+- Boat-to-shore and shore-to-shore communication across open water (excellent LoRa propagation)
+- Communication between group members and for remote worker safety
+- GPS location sharing for safety on the water, trails, canoe routes and snowmobile trails
+- Environmental sensors (weather, water level, temperature) reporting over the same network
+- No ongoing cost and extremely low power draw (solar or battery friendly)
+
+Because each node acts as a relay, the network becomes stronger as more people participate. A few well-placed “router” nodes on high ground or tall trees can cover the entire lake, providing a resilient, community-owned communications layer that continues working when conventional networks fail.
+
+## Purpose of this website
+
+1. Provide a central repository of local information for meshtastic network participants
+2. Provide a support and discussion forum for sharing information or getting technical assistance with local meshtastic projects
