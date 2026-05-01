@@ -1,3 +1,8 @@
+---
+permalink: /connect/
+title: "Connect"
+---
+
 You need a personal meshtastic radio, called a "companion radio", and a cellular phone with the meshtastic app installed. Your cellular phone connects to the companion radio using Bluetooth and the companion radio relays messages to the meshtastic network. There are a multitude of options available in the $50 to $200 CAD price range on websites like Amazon. 
 
 **Tips when choosing:**
