@@ -1,21 +1,22 @@
-# How to Support the Network
+---
+permalink: /contribute/
+title: "Contribute"
+---
 
-No formal organization exists to control this project or own property. All contributions remain the property of and are the responsbility of the contributors. 
+The primary way to support the project is to purchase a Meshtastic radio, install the meshtastic app on your phone, and start using the technology. The more people who do this, the more reliable the network becomes. 
 
-If you own property or vehicles on or near Lake Temagami, you could consider hosting one or more meshtastic nodes on your property or vehicles.
+If you own property or vehicles on or near Lake Temagami, you could consider hosting one or more specialized meshtastic nodes: 
 
-Transmission is line of site and transmission range is primarily affected by the height of the transmitter antenna. A node that is located 3 feet off the ground might have a range of only 1-2km. A node that is located 40 feet above the ground might reach 20+ kms.
- 
-It is possible to build solar powered mesh nodes but it is a challenge to charge lithium batteries in sub-zero temperatures so such nodes are generally summer use only. 
+* Router nodes are placed in high locations and are designed to be reliable and permanent parts of the meshtastic network infrastructure
+* Sensor nodes broadcast data from weather stations or any off-grid devices that need to be monitored
+* Tracker nodes contain GPS chips and can be installed in cars, boats, snowmobiles or carried on your person
 
-Nodes can also be designed to track vehicles and assets.
+Please contact one of the project maintainers if you need help with this. A limited number of free nodes will be distributed to help establish this network.
 
-## Monetary donations 
+No formal organization exists to control this project or own any property. All contributions remain the property of and are the responsbility of the contributors to maintain and develop.
 
-Monetary donations are used to purchase parts to build and distribute free nodes. Each node costs approximately $250 CAD to build but the cost varies depending on the site requirements.
+If any aspect of this mission aligns with your organizational goals, please go ahead and implement your own projects using the network. You don't need permission. Some example uses of how a business organization might use the technology:
 
-Interac E-Transfer: me@bondkeevil.ca
-
-## Organizational Support
-
-If any aspect of this mission aligns with your organizational goals, please go ahead and implement your own projects using the network. You don't need our permission.
+* Tracking the GPS location of your vehicles on https://meshmap.net/
+* Providing for the safety of remote workers or their customers
+* Monitoring water levels, temperatures, and equipment
