@@ -3,7 +3,11 @@ permalink: /connect/
 title: "Connect"
 ---
 
-You need a personal meshtastic radio, called a "companion radio", and a cellular phone with the meshtastic app installed. Your cellular phone connects to the companion radio using Bluetooth and the companion radio relays messages to the meshtastic network. There are a multitude of options available in the $50 to $200 CAD price range on websites like Amazon. Popular vendors include [Elecrow](https://www.elecrow.com/meshtastic.html), [RAK Wireless](https://store.rakwireless.com/collections/meshtastic), [Rockland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo?srsltid=AfmBOorPQbvCZxGJdaE7NkHXq8WXAthKINd0iNje8IXi9QIGBaBSHeWJ), and [Heltec](https://heltec.org/product-category/lora/meshtastic/).
+## Buying a Radio
+
+You will need a personal meshtastic radio, called a "companion radio", and a cellular phone with the meshtastic app installed. Your cellular phone connects to the companion radio using Bluetooth and the companion radio relays messages to the meshtastic network. 
+
+There are a multitude of options available in the $50 to $200 CAD price range on websites like Amazon. Popular vendors include [Elecrow](https://www.elecrow.com/meshtastic.html), [RAK Wireless](https://store.rakwireless.com/collections/meshtastic), [Rockland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo?srsltid=AfmBOorPQbvCZxGJdaE7NkHXq8WXAthKINd0iNje8IXi9QIGBaBSHeWJ), and [Heltec](https://heltec.org/product-category/lora/meshtastic/).
 
 **Tips when choosing:**
 
@@ -22,6 +26,8 @@ Documentation on how to configure your radio for different use cases are widely 
 
 All other settings can be left at their default value or modified at your discretion.
 
+## More Advanced Radio Projects
+
 If you own property or vehicles on or near Lake Temagami, you could consider hosting one or more specialized meshtastic nodes: 
 
 * Router nodes are placed in high locations and are designed to be reliable and permanent parts of the meshtastic network infrastructure
@@ -30,9 +36,9 @@ If you own property or vehicles on or near Lake Temagami, you could consider hos
 
 Please contact one of the project maintainers if you need help with this. A limited number of free nodes will be distributed to help establish this network.
 
-No formal organization exists to control this project or own any property. All contributions remain the property of and are the responsbility of the contributors to maintain and develop.
+## Business Use Cases
 
-If any aspect of this mission aligns with your organizational goals, please go ahead and implement your own projects using the network. You don't need permission. Some example uses of how a business organization might use the technology:
+If any aspect of this mission aligns with your organizational goals, please go ahead and implement your own projects using the network. You don't need permission. Some example uses of how an organization might use the technology:
 
 * Tracking the GPS location of your vehicles on https://meshmap.net/
 * Providing for the safety of remote workers or their customers
